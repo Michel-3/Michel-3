@@ -1,5 +1,5 @@
 # 💫 About Me:
-- ⭐ I'm Michel Ruiter<br>- 💡 I'm 21 years old<br>- 🚩 I'm from the netherlands<br>- 🔭 I’m currently working on a driving school website<br>
+- ⭐ I'm Michel Ruiter<br>- 💡 I'm 21 years old<br>- 🚩 I'm from the Netherlands<br>- 🔭 I’m currently working on a driving school website<br>
 
 
 ## 🌐 Socials:
